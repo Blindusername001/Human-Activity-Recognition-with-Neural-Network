@@ -15,4 +15,10 @@ We will merge all the files during data processing step.
 Public datasets for HAR (Human Activity Recognition) can be downloaded from the internet if one does not want to perform data collection on their own.
 [Example:https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
 
+# Format change
+MATLAB records the data in its own format (.mat files). 
+These have to be convered into excel files so that they can be consumed by a python program and additional proceesing can be done on the data before feeding to a neural network.
 
+
+# Data Exploration and Preparation
+Once data is collected, the next step is to explore and visulaize the raw data to get an idea of what processing steps are required to be performed on the data.
