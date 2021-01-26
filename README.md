@@ -1,6 +1,19 @@
 # Human-Activity-Recognition-with-Neural-Network
 End to end project from collecting human activity data and building a neural network to classify activities
 
+#Steps involved in creating a Neural Netowrk predictive model:
+1. Data collection
+2. Detrmine if the problem at hand is a regreeion or classificaiton problem
+3. Data exploration and pre-processing
+4. Split data into testing, validation and training datasets
+5. Split each dataset into input(X) and output(y) - convert them into numpy arrays
+6. Develop a simple NN sequential model 
+7. Tune hyperparameters (using a modeule like GridSearchCV)
+8. Compile and Fit the tunes model with training and validation datasets
+9. Predict the testing data with the model
+10. Depending on the problem (regression/ classification) compute performance metrics
+
+
 # Data Collection
 Data collection is done through smartphones with the help of MATLAB application.
 There is a section called 'sensors' in the application where all the sensors availabe on a smartphone can be switched on.
