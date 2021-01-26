@@ -18,9 +18,14 @@ Public datasets for HAR (Human Activity Recognition) can be downloaded from the 
 # Format change
 MATLAB records the data in its own format (.mat files). 
 These have to be convered into excel files so that they can be consumed by a python program and additional proceesing can be done on the data before feeding to a neural network.
+The code for this is [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/Sensor_timetable_to_excel_files.txt]
 
 
 # Data Exploration and Preparation
 Once data is collected, the next step is to explore and visulaize the raw data to get an idea of what processing steps are required to be performed on the data.
+The jupyter notebook for this along with the visualizations are in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/Data%20preparation%20and%20exploration.ipynb]
 
 # Neural Network Modelling
+This involves creating a simple ANN (Artificial Neural Network) and then optimizing the hyperparameters to improve the model.
+We use Keras for neural network modelling and GridSearchCV for hyperparameter tuning.
+The jupyter notebook for this is in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/ANN-Model.ipynb]
