@@ -26,6 +26,7 @@ Once data is collected, the next step is to explore and visulaize the raw data t
 The jupyter notebook for this along with the visualizations are in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/Data%20preparation%20and%20exploration.ipynb]
 
 # Neural Network Modelling
-This involves creating a simple ANN (Artificial Neural Network) and then optimizing the hyperparameters to improve the model.
+Human Activity Recognition is a multiclass classification problem.
+We create a simple ANN (Artificial Neural Network) and then optimizing the hyperparameters to improve the model.
 We use Keras for neural network modelling and GridSearchCV for hyperparameter tuning.
 The jupyter notebook for this is in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/ANN-Model.ipynb]
