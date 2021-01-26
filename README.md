@@ -22,3 +22,5 @@ These have to be convered into excel files so that they can be consumed by a pyt
 
 # Data Exploration and Preparation
 Once data is collected, the next step is to explore and visulaize the raw data to get an idea of what processing steps are required to be performed on the data.
+
+# Neural Network Modelling
