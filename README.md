@@ -34,6 +34,10 @@ Everytime an activity is paused, the recording has to be stopped and saved with 
 Once again, recording has to be started and the activity continued - this time saving as a new file. 
 We will merge all the files during data processing step.
 
+The below youtube video from MATLAB details how sensor data can be collcted using ots software.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LCk9gV0ooxI/0.jpg)](http://www.youtube.com/watch?v=LCk9gV0ooxI "Video Title")
+
+
 Public datasets for HAR (Human Activity Recognition) can be downloaded from the internet if one does not want to perform data collection on their own.
 [Example:https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
 
