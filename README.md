@@ -47,13 +47,21 @@ MATLAB records the data in its own format (.mat files).
 These have to be convered into excel files so that they can be consumed by a python program and additional proceesing can be done on the data before feeding to a neural network.
 The code for this is [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/Sensor_timetable_to_excel_files.txt]
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/FpUM_NspEPs/0.jpg)](http://www.youtube.com/watch?v=FpUM_NspEPs "Video Title")
+
 
 # Data Exploration and Preparation
 Once data is collected, the next step is to explore and visulaize the raw data to get an idea of what processing steps are required to be performed on the data.
 The jupyter notebook for this along with the visualizations are in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/Data%20preparation%20and%20exploration.ipynb]
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Fi-0gyFdtV8/0.jpg)](http://www.youtube.com/watch?v=Fi-0gyFdtV8 "Video Title")
+
 
 # Neural Network Modelling
 Human Activity Recognition is a multiclass classification problem.
 We create a simple ANN (Artificial Neural Network) and then optimizing the hyperparameters to improve the model.
 We use Keras for neural network modelling and GridSearchCV for hyperparameter tuning.
 The jupyter notebook for this is in [https://github.com/karthikkumar001/Human-Activity-Recognition-with-Neural-Network/blob/main/ANN-Model.ipynb]
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5FNOZg0q_0s/0.jpg)](http://www.youtube.com/watch?v=5FNOZg0q_0s "Video Title")
+
