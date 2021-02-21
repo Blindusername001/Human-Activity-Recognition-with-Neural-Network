@@ -1,3 +1,12 @@
+Ever wondered how your smartphone/smartwatch identifies the activity you are doing. It knows when you walk, run or climb stairs. That is what is called HAR (Human Activity Recognition) in the scientific world.
+
+This project was taken as part of one of the module assignments in my Data Science Masters course.
+
+We will build a neural network that can identify three activities we do using data recorded by mobile sensors.
+
+
+
+
 # Human-Activity-Recognition-with-Neural-Network
 End to end project from collecting human activity data and building a neural network to classify activities
 
