@@ -34,7 +34,8 @@ Everytime an activity is paused, the recording has to be stopped and saved with 
 Once again, recording has to be started and the activity continued - this time saving as a new file. 
 We will merge all the files during data processing step.
 
-The below youtube video from MATLAB details how sensor data can be collcted using ots software.
+The below youtube video from MATLAB details how sensor data can be collcted using its software.
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/LCk9gV0ooxI/0.jpg)](http://www.youtube.com/watch?v=LCk9gV0ooxI "Video Title")
 
 
